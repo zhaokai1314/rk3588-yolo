@@ -32,7 +32,13 @@ scripts/
   bench_and_report.py      测速 + 生成 Word 报告
   validate_decode.py      解码/后处理校验
 YOLO_RKNN_FLOW.md      完整流程与踩坑记录
+docs/media/            实机部署过程录屏（Git LFS）
 ```
+
+## 演示录像
+
+- [demo_20261125_1804.mp4](docs/media/demo_20261125_1804.mp4) — 13:00 环境搭建与 ONNX → RKNN 转换
+- [demo_20261125_2201.mp4](docs/media/demo_20261125_2201.mp4) — 5:44 板端推理与测速
 
 ## 三步流程
 
